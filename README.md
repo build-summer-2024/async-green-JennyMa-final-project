@@ -2,19 +2,18 @@
 [Olympics 2024](https://www.kaggle.com/datasets/x1akshay/olympics-2024)
 
 ## Why did I chose this dataset?
-
-[Placeholder for answer]
+I chose this dataset on the 2024 Olympics dataset because it's a highly relevant event currently generating significant interest from everyone around the world. The event just ended not long ago, and an in-depth analysis would provide valuable insights into the performances and outcomes.]
 
 ## Progress
-- [ ] Picked dataset
-- [ ] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [x] Picked dataset
+- [x] Defined 10 questions
+- [x] Answered 10 questions using Pandas
+- [x] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [x] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: [Brief description of the task]
-  - Answer: [Placeholder for answer]
+- [x] Question 1: [What is total medals won in each Olympic sport?]
+  - Answer: [Here's a list of the medal counts for each sport: Archery: 15, Artistic swimming: 6, Athletics: 145, Badminton: 15, Basketball: 12, Boxing: 52, Breaking: 6, Canoeing: 49, Cycling: 66, Diving: 24, Equestrian: 18, Fencing: 36, Field hockey: 6, Football: 6, Golf: 6, Gymnastics: 55, Handball: 6, Judo: 60,Modern pentathlon: 6, Rowing: 42, Rugby sevens: 6, Sailing: 30, Shooting: 45, Skateboarding: 12, Sport climbing: 12, Surfing: 6, Swimming: 111, Table tennis: 15, Taekwondo: 32, Tennis: 15, Triathlon: 9, Volleyball: 12, Water polo: 6, Weightlifting: 30, Wrestling: 72.]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
 - [ ] Question 2: [Brief description of the task]
