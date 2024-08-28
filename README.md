@@ -19,23 +19,23 @@ I chose this dataset on the 2024 Olympics dataset because it's a highly relevant
 - [x] Question 2: What is total medals won by each country?
   - Answer: See the graph for detail information. For example, Albania:2, 
 Algeria: 3, Argentina: 3, Armenia: 4, Australia: 53, Uganda: 2, Ukraine: 12, United States: 126, Uzbekistan: 13, Zambia:1
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Visualization: ![Q2 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q2.png)
 
 - [x] Question 3: What is the ratio of gold medals to silver medals to bronze medals?
   - Answer: Ratio of Gold medal is 31.5%, silver medal is 31.6, and bronze medal is 36.9%.
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Visualization: ![Q3 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q3.png)
 
 - [x] Question 4: Top 5 countries with the most gold medal
   - Answer:  China won 40 gold medals. USA won 40 gold medals as well. Japan won 20 gold medals while Australia won 18 gold medals. France won 16 gold medals.
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Visualization: ![Q4 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q4.png)
 
 - [x] Question 5: Top 5 country with the most silver medal
   - Answer: USA won 44 silver medals. China won 27 silver medals. France won 26 silver medals while Great Britain won 22 silver medals. Australia won 19 silver medals.
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+  - Visualization: ![Q5 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q5.png)
 
 - [x] Question 6: Top 5 country with the most bronze medal
   - Answer: USA won 42 bronze medals. Great Britain won 29 bronze medals. China won 24 bronze medals while France won 22 bronze medals. Australia won 16 bronze medals.
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+  - Visualization: ![Q6 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q6.png)
 
 - [ ] Question 7: [Brief description of the task]
   - Answer: [Placeholder for answer]
