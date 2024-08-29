@@ -86,4 +86,4 @@ Volleyball            1.149425
 Water polo            0.574713
 Weightlifting         2.873563
 Wrestling             6.896552
-  - Visualization: ![Q10 Visualization]()
+  - Visualization: ![Q10 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q10.png)
