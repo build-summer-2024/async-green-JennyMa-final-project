@@ -25,7 +25,7 @@ Algeria: 3, Argentina: 3, Armenia: 4, Australia: 53, Uganda: 2, Ukraine: 12, Uni
   - Answer: Ratio of Gold medal is 31.5%, silver medal is 31.6, and bronze medal is 36.9%.
   - Visualization: ![Q3 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q3.png)
 
-- [x] Question 4: Top 5 countries with the most gold medal
+- [x] Question 4: Top 5 country with the most gold medal
   - Answer:  China won 40 gold medals. USA won 40 gold medals as well. Japan won 20 gold medals while Australia won 18 gold medals. France won 16 gold medals.
   - Visualization: ![Q4 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q4.png)
 
@@ -37,18 +37,53 @@ Algeria: 3, Argentina: 3, Armenia: 4, Australia: 53, Uganda: 2, Ukraine: 12, Uni
   - Answer: USA won 42 bronze medals. Great Britain won 29 bronze medals. China won 24 bronze medals while France won 22 bronze medals. Australia won 16 bronze medals.
   - Visualization: ![Q6 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q6.png)
 
-- [ ] Question 7: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+- [x] Question 7: Top 5 sport with the most gold medal
+  - Answer: There was 48 gold medals in athletics, 37 gold medals in swimming, 22 gold medals in cycling, 18 gold in wrestling as well as gymnastics.
+  - Visualization: ![Q7 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q7.png)
 
-- [ ] Question 8: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+- [x] Question 8: Top 5 sport with the most silver medal
+  - Answer: There was 48 silver medals in athletics, 38 silver medals in swimming, 22 silver medals in cycling, 18 silver medals in wrestling as well as gymnastics.
+  - Visualization: ![Q8 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q8.png)
 
-- [ ] Question 9: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+- [x] Question 9: Top 5 sport with the most bronze medal
+  - Answer: There was 49 bronze medals in athletics, 36 bronze medals in wrestling and swimming respectively, 30 bronze medals in Judo, 26 bronze medals in boxing.
+  - Visualization: ![Q9 Visualization](https://github.com/build-summer-2024/async-green-JennyMa-final-project/blob/main/Q9.png)
 
-- [ ] Question 10: [Brief description of the task]
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+- [x] Question 10:What proportion of total medals is contributed by each sport?
+  - Answer: 
+Archery               1.436782
+Artistic swimming     0.574713
+Athletics            13.888889
+Badminton             1.436782
+Basketball            1.149425
+Boxing                4.980843
+Breaking              0.574713
+Canoeing              4.693487
+Cycling               6.321839
+Diving                2.298851
+Equestrian            1.724138
+Fencing               3.448276
+Field hockey          0.574713
+Football              0.574713
+Golf                  0.574713
+Gymnastics            5.268199
+Handball              0.574713
+Judo                  5.747126
+Modern pentathlon     0.574713
+Rowing                4.022989
+Rugby sevens          0.574713
+Sailing               2.873563
+Shooting              4.310345
+Skateboarding         1.149425
+Sport climbing        1.149425
+Surfing               0.574713
+Swimming             10.632184
+Table tennis          1.436782
+Taekwondo             3.065134
+Tennis                1.436782
+Triathlon             0.862069
+Volleyball            1.149425
+Water polo            0.574713
+Weightlifting         2.873563
+Wrestling             6.896552
+  - Visualization: ![Q10 Visualization]()
